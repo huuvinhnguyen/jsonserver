@@ -1,11 +1,11 @@
 {
-  "premium_info" : {
-    "state" : "",
-    "registration_date" : "",
-    "is_payment" : false,
-    "expires_on" : "",
-    "payment_renew" : false,
-    "registration_platform" : ""
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  
 }
