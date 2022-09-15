@@ -1,5 +1,4 @@
 {
-  "last_category_budget_updated_at" : null,
   "premium_info" : {
     "state" : "",
     "registration_date" : "",
@@ -7,39 +6,6 @@
     "expires_on" : "",
     "payment_renew" : false,
     "registration_platform" : ""
-  },
-  "transaction_image_icon" : "https:\/\/sanrio-pfm-backend.herokuapp.com\/assets\/circle_kitty-7206070e0f8378ac22223a74fc233488a360005a9ab39e87fa47a5c285d1813a.svg",
-  "policy" : {
-    "privacy" : null,
-    "security" : null
-  },
-  "announcement" : {
-    "status" : true
-  },
-  "aggregation" : {
-    "type" : "not_change",
-    "start_date" : 1
-  },
-  "budget" : {
-    "value" : 0,
-    "date" : 30,
-    "type" : "monthly"
-  },
-  "birthday" : null,
-  "transfer_data_id" : "wztwib",
-  "character" : "kitty",
-  "reminder" : {
-    "status" : false,
-    "custom_date" : [
-      "mon"
-    ],
-    "reminder_type" : "daily",
-    "time" : "19:00"
-  },
-  "name" : "",
-  "mf_account" : {
-    "mf_id" : null,
-    "email" : "",
-    "name" : ""
   }
+  
 }
